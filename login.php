@@ -106,7 +106,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <p>Don't have an account? <a href="register.php">Sign up now</a>.</p>
         </form>
     </div>    
-    <div class="posted-by">© 2018 <a href="./Resume/index.html" target="_blank">Owaiz Sultan</a>. All rights reserved
+    <div class="posted-by">© 2018 <a href="./index.html" target="_blank">Owaiz Sultan</a>. All rights reserved
     </div>
 
 </body>
